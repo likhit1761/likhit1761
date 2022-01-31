@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @likhit1761
 - 👀 I’m interested in computer vision
-- 🌱 I’m currently learning flask
+- 🌱 I’m currently learning Django
 - 💞️ I’m looking to collaborate on machine learning
 - 📫 How to reach me ...
 
